@@ -1,0 +1,4 @@
+linux/
+linux-*.deb
+linux-*.dsc
+linux-*.tar.gz
