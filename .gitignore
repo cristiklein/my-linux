@@ -1,4 +1,6 @@
 linux/
+linux-*.buildinfo
+linux-*.changes
 linux-*.deb
 linux-*.dsc
 linux-*.tar.gz
